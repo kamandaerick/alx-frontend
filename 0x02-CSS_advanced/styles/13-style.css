@@ -40,13 +40,13 @@ a {
 a:link {
 
 }
-a:visited {
+a:link:visited {
   font-style: italic;
 }
-a:hover {
+a:link:hover {
   text-decoration: underline;
 }
-a:active {
+a:link:active {
   background-color: var(--color-light-grey);
 }
 .visually-hidden {
